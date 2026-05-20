@@ -105,7 +105,7 @@ streamlit run app.py
 | ChestPainType  | ASY   |
 | RestingECG     | LVH   |
 | ExerciseAngina | Y     |
-| ST_Slope       | Down  |
+| ST_Slope       | flat  |
 
 
 ## Low Risk Test Case
